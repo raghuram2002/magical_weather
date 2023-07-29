@@ -8,4 +8,4 @@ This is a API based Weather Page where it fetches weather data from [weatherapi]
 - APIs
 
 
-- you have to visit my site through this link (https://raghuram2002.github.io/magical_weather/).
+- you can visit my site by through this link (https://raghuram2002.github.io/magical_weather/).
